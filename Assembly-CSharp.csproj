@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C73AA83F-D93C-DDCE-8DF2-202F8D2660F2}</ProjectGuid>
+    <ProjectGuid>{42A09167-2A5D-E667-0D95-961B11978EF6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -1093,7 +1093,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="CardboardSamples.csproj">
-      <Project>{A643467E-5B29-9CE2-BAE8-A269E22A0BC3}</Project>
+      <Project>{250BAD32-6F90-3839-DA0D-01D072A34F3C}</Project>
       <Name>CardboardSamples</Name>
     </ProjectReference>
   </ItemGroup>
