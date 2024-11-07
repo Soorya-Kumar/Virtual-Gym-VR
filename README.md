@@ -1,4 +1,4 @@
-### VIRTUAL GYM 
+# VIRTUAL GYM 
 
 CSPE-51 ARVR PROJECT <br>
 
@@ -9,8 +9,8 @@ Vergin Jose I 106122137<br>
 
 ## DEMO LINKS
 
-### Unity : [https://youtu.be/HxPd1gHr8Ns](https://youtu.be/HxPd1gHr8Ns) <br>
-### Google CardBoard :[https://youtu.be/FrGt18_JH4c](https://youtu.be/FrGt18_JH4c) <br>
+#### Unity : [https://youtu.be/HxPd1gHr8Ns](https://youtu.be/HxPd1gHr8Ns) <br>
+#### Google CardBoard :[https://youtu.be/FrGt18_JH4c](https://youtu.be/FrGt18_JH4c) <br>
 
 
 
